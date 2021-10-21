@@ -1,0 +1,8 @@
+exports[`My first test > visits the kitchen sink #0`] = `
+<input
+  type="email"
+  class="form-control action-email"
+  id="email1"
+  placeholder="Email"
+/>
+`;
